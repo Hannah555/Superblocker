@@ -1,0 +1,4 @@
+---------------------------------- About This Extension ----------------------------------
+1. To enable this extension, open the developer mode in your chrome browser.
+2. Click the 'Load Package' button to upload this extension to the chrome browser.
+3. The click 'Allow' to enable this extension.
